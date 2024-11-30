@@ -1,7 +1,6 @@
 import { viem } from "hardhat";
 import { parseEther, formatEther, Address } from "viem";
 import * as readline from "readline";
-import { Lottery } from "../types/Lottery";
 
 const MAXUINT256 =
     115792089237316195423570985008687907853269984665640564039457584007913129639935n;
